@@ -1,0 +1,104 @@
+html {
+    box-sizing: border-box;
+}
+body {
+    background-color: #000000;
+    font-family: 'Raleway', sans-serif;
+    color: #fff;
+}
+.bg-2 {
+    background-color: #1E1A13;    
+}
+h1 {    
+    font-size: 50px;
+    font-weight: normal;
+    text-align: center;
+    color: white;    
+}
+h2 {
+    font-size: 40px;
+    font-weight: normal;
+    text-align: center;   
+}
+.pad-izq {
+    margin-left: 150px;
+}
+.altura-1 {    
+    height: 284px;    
+}
+
+.vertical-alg {
+    vertical-align: middle;
+}
+.pad-2 {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+.marg-20 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.contenedor {
+    width: 80%; 
+    margin-left: auto;
+    margin-right: auto;
+    vertical-align: middle;
+     
+}
+
+.centrar-txt {
+    text-align: center;
+    vertical-align: middle;    
+}
+.bloque-linea {
+    display: inline-block;
+}
+
+.parrafo1 {
+    width: 475px;
+    margin-right: 106px;
+    font-weight: 100;
+}
+.iguana {
+    width: 399px;
+    height: 237px;
+}
+.fondo1 {
+    background-image: url("../img/bg-header.jpg");
+    height: 727px;     
+    background-repeat: no-repeat;
+    background-position: center;     
+    background-size: contain;
+}
+
+.tarjetas img {
+    width: 316px;
+    height: 202px;
+    object-fit: cover;
+    display: inline-block;
+    vertical-align: middle;
+}
+.pad-derecho {
+    padding-right: 15px;
+}
+
+.tarjetas {
+    height: 284px;;
+}
+.ico-awe {
+    vertical-align: middle;
+    width: 33%;
+}
+.ico-awe img {
+    width: 50px;
+}
+footer {
+    height: 40px;
+}
+footer p {
+    color: white;
+    font-weight: 100;
+    text-align: center;
+    font-size: 1em;
+}
+
